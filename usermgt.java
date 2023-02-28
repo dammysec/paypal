@@ -3,3 +3,4 @@ dammy
 momo
 ayo
 obi
+manager
